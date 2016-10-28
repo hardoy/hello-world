@@ -11,6 +11,6 @@ from helloworld import HelloWorld
 
 def register():
     Pool.register(
-        HelloWorld
+        HelloWorld,
         module='helloworld', type_='model'
     )
