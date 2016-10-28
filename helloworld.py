@@ -6,7 +6,7 @@
     :copyright: (c) 2016 by toni
     :license: see LICENSE for more details.
 """
-from tryton.model import ModelSQL, ModelView, fields
+from trytond.model import ModelSQL, ModelView, fields
 
 __all__ = ['HelloWorld']
 
